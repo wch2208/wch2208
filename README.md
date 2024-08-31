@@ -1,5 +1,8 @@
-## Hi there 👋
+##
 
+<a href="https:/https://linktr.ee/wch2208">
+  <img src="./asset/link_tree.png" width="300" alt="링크트리">
+</a>
 <!--
 **wch2208/wch2208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
