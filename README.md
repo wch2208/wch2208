@@ -1,6 +1,6 @@
 ##
 
-<a href="https:/https://linktr.ee/wch2208">
+<a href="https:/linktr.ee/wch2208">
   <img src="./asset/link_tree.png" width="300" alt="링크트리">
 </a>
 <!--
